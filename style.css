@@ -1,0 +1,22 @@
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+background: #111;
+color: #fff;
+}
+#note {
+font-size: 60px;
+margin: 20px;
+}
+#freq {
+font-size: 24px;
+margin-bottom: 20px;
+}
+button {
+padding: 15px 25px;
+font-size: 18px;
+background: #00c853;
+border: none;
+border-radius: 10px;
+color: white;
+}
